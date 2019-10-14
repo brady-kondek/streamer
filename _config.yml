@@ -1,0 +1,12 @@
+# Site settings
+title: EJSwimmer101 - Official Site
+email: ejheymaniv@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The official website of ejswimmer101
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.ejswimmer101.ga" # the base hostname & protocol for your site
+#twitter_username:
+#github_username:  
+
+# Build settings
+markdown: kramdown
